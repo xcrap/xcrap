@@ -8,7 +8,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
 
-> Passionate about visually beautiful things — sunsets, sunrises, stars, and clean code.
+> Passionate about visually beautiful things.
+> Sunsets, Sunrises and Stars.
 > Building from a volcanic island in the middle of the Atlantic.
 
 ## What I Do
