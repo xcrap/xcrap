@@ -20,6 +20,7 @@
 ## Projects
 
 - 📸 **[PhotoPro](https://github.com/xcrap/photopro)** — Photographer-focused weather forecast app for planning shoots around sun, moon, weather and special events
+- 📸 **[PhotoProIOS]([https://github.com/xcrap/photopro)** — Photographer-focused weather forecast app for planning shoots around sun, moon, weather and special events (IOS Version)
 - 🏎️ **[MicroMachines](https://github.com/xcrap/micromachines)** — Top-down car racing game, a tribute to the classic ([play it](https://micromachines.vercel.app))
 - 🔍 **[SEO Optimizer](https://github.com/xcrap/seooptimizer)** — AI-powered SEO title and meta description generator
 - 🎨 **[Tailwind Gradient Generator](https://github.com/xcrap/tailwind-gradient-generator)** — Visual gradient builder for Tailwind v4/SVG ([try it](https://tailwind-gradient-generator-kappa.vercel.app/))
