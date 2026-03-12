@@ -1,16 +1,14 @@
 # Hey, I'm César 👋
 
-📍 **São Miguel Island, Azores** | 📸 **Photographer** | 💻 **Web Developer** | 🌊 **From the middle of the Atlantic**
+Passionate about visually beautiful things.<br>
+Sunsets, Sunrises and Stars.<br>
+Building from a volcanic island in the middle of the Atlantic.
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
-
-> Passionate about visually beautiful things.<br>
-> Sunsets, Sunrises and Stars.<br>
-> Building from a volcanic island in the middle of the Atlantic.
 
 ## What I Do
 
@@ -20,10 +18,11 @@
 
 ## Projects
 
-- 📸 **[PhotoPro](https://github.com/xcrap/photopro)** — Photographer-focused weather forecast app for planning shoots around sun, moon, weather and special events. (Web and IOS Version)
-- 🏎️ **[MicroMachines](https://github.com/xcrap/micromachines)** — Top-down car racing game, a tribute to the classic ([play it](https://micromachines.vercel.app))
-- 🔍 **[SEO Optimizer](https://github.com/xcrap/seooptimizer)** — AI-powered SEO title and meta description generator
-- 🎨 **[Tailwind Gradient Generator](https://github.com/xcrap/tailwind-gradient-generator)** — Visual gradient builder for Tailwind v4/SVG ([try it](https://tailwind-gradient-generator-kappa.vercel.app/))
+- **[PhotoPro](https://github.com/xcrap/photopro)** — Photographer-focused weather forecast app for planning shoots around sun, moon, weather and special events. (Web and IOS Version)
+- **[MicroMachines](https://github.com/xcrap/micromachines)** — Top-down car racing game, a tribute to the classic ([play it](https://micromachines.vercel.app))
+- **[SEO Optimizer](https://github.com/xcrap/seooptimizer)** — AI-powered SEO title and meta description generator
+- **[Tailwind Gradient Generator](https://github.com/xcrap/tailwind-gradient-generator)** — Visual gradient builder for Tailwind v4/SVG ([try it](https://tailwind-gradient-generator-kappa.vercel.app/))
+- **[Nest](https://github.com/xcrap/nest)** — macOS-first local PHP development app that replaces Herd with FrankenPHP, local .test domains, HTTPS, and a desktop UI
 
 ## Connect
 
