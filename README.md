@@ -12,8 +12,7 @@ Building from a volcanic island in the middle of the Atlantic.
 
 ## What I Do
 
-🏢 **[Waka WebStudio](https://waka.pt)** — My web studio based in São Miguel, Azores. Custom websites, portals and design for brands that want to stand out.
-
+🏢 **[Waka WebStudio](https://waka.pt)** — My web studio based in the Azores. Custom websites, portals and webdesign.
 📸 **[Photography](https://www.cesarcouto.com)** — Landscape, ocean, aerial and astro photography across the Azores. Chasing light wherever it takes me.
 
 ## Projects
