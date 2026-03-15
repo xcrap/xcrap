@@ -17,11 +17,11 @@ Building from a volcanic island in the middle of the Atlantic.
 
 ## Projects
 
+- **[Nest](https://github.com/xcrap/nest)** — macOS-first local PHP Herd replacer with FrankenPHP, local .test domains, HTTPS, and a desktop UI
 - **[PhotoPro](https://github.com/xcrap/photopro)** — Photographer forecast app around weather and related special events. (Web and IOS Version)
-- **[MicroMachines](https://github.com/xcrap/micromachines)** — Top-down car racing game, a tribute to the classic ([play it](https://micromachines.vercel.app))
 - **[SEO Optimizer](https://github.com/xcrap/seooptimizer)** — AI-powered SEO title and meta description generator
 - **[Tailwind Gradient Generator](https://github.com/xcrap/tailwind-gradient-generator)** — Visual gradient builder for Tailwind v4/SVG ([try it](https://tailwind-gradient-generator-kappa.vercel.app/))
-- **[Nest](https://github.com/xcrap/nest)** — macOS-first local PHP Herd replacer with FrankenPHP, local .test domains, HTTPS, and a desktop UI
+- **[MicroMachines](https://github.com/xcrap/micromachines)** — Top-down car racing game, a tribute to the classic ([play it](https://micromachines.vercel.app))
 
 ## Connect
 
