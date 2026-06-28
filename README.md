@@ -18,6 +18,7 @@ Building from a volcanic island in the middle of the Atlantic.
 ## Projects
 
 - **[Flow](https://github.com/xcrap/flow)** — A native macOS app for orchestrating AI agents and terminals on an infinite canvas.
+- **[FlowX](https://github.com/xcrap/flowx)** — A native macOS app for orchestrating AI agents and terminals.
 - **[Nest](https://github.com/xcrap/nest)** — Nest is a macOS app for managing local PHP development sites with FrankenPHP and MariaDB.
 - **[PhotoPro](https://github.com/xcrap/photopro)** — Photographer forecast app around weather and related special events. (Web and IOS Version)
 - **[SEO Optimizer](https://github.com/xcrap/seooptimizer)** — AI-powered SEO title and meta description generator
