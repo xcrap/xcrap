@@ -17,8 +17,7 @@ Building from a volcanic island in the middle of the Atlantic.
 
 ## Open Source
 
-- **[Flow](https://github.com/xcrap/flow)** — A native macOS app for orchestrating AI agents and terminals on an infinite canvas.
-- **[FlowX](https://github.com/xcrap/flowx)** — A native macOS app for orchestrating AI agents and terminals.
+- **[FlowXRust](https://github.com/xcrap/flowxrust)** — A Rust macOS app for orchestrating AI agents and terminals.
 - **[Serein](https://github.com/xcrap/serein)** — A listening instrument that turns music into responsive full-screen generative visuals.
 - **[Nest](https://github.com/xcrap/nest)** — Nest is a macOS app for managing local PHP development sites with FrankenPHP and MariaDB.
 - **[PhotoPro](https://github.com/xcrap/photopro)** — Photographer forecast app around weather and related special events. (Web and IOS Version)
@@ -27,6 +26,8 @@ Building from a volcanic island in the middle of the Atlantic.
 - **[Waka Sans](https://github.com/xcrap/waka-sans)** — A compact variable typeface derived from DM Sans.
 - **[Tailwind Gradient Generator](https://github.com/xcrap/tailwind-gradient-generator)** — Visual gradient builder for Tailwind v4/SVG ([try it](https://tailwind-gradient-generator-kappa.vercel.app/))
 - **[MicroMachines](https://github.com/xcrap/micromachines)** — Top-down car racing game, a tribute to the classic ([play it](https://micromachines.vercel.app))
+- **[Flow](https://github.com/xcrap/flow)** — A native macOS app for orchestrating AI agents and terminals on an infinite canvas. (ABANDONED)
+- **[FlowX](https://github.com/xcrap/flowx)** — A native macOS app for orchestrating AI agents and terminals. (ABANDONED)
 
 ## Connect
 
