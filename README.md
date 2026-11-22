@@ -4,12 +4,6 @@ Passionate about visually beautiful things.<br>
 Sunsets, Sunrises and Stars.<br>
 Building from a volcanic island in the middle of the Atlantic.
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
-
 ## What I Do
 
 **[Waka WebStudio](https://waka.pt)** — My web studio based in the Azores. Custom websites, portals and webdesign.<br>
