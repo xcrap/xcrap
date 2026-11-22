@@ -2,7 +2,7 @@
 
 Passionate about visually beautiful things.<br>
 Sunsets, Sunrises and Stars.<br>
-Building from a volcanic island in the middle of the Atlantic.
+Building from a volcanic island in the middle of the Atlantic.<br>
 Founder of [Waka WebStudio](https://www.waka.pt)
 
 ## What I Do
