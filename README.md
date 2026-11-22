@@ -3,7 +3,7 @@
 Passionate about visually beautiful things.<br>
 Sunsets, Sunrises and Stars.<br>
 Building from a volcanic island in the middle of the Atlantic.
-Founder of [![Waka WebStudio](https://www.waka.pt)](https://www.waka.pt)
+Founder of [Waka WebStudio](https://www.waka.pt)
 
 ## What I Do
 
